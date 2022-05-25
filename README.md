@@ -7,6 +7,4 @@
 1. Monitors for errors
 1. Aborts deployments when errors occur
 
-You will also learn how to run a Serverless application locally using the SAM CLI
-
 ![Image](img/github-home.svg)
